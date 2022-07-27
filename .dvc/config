@@ -1,0 +1,6 @@
+['remote "dataset-track"']
+    url = azure://dataset
+    account_name = deployml01
+['remote "model-tracker"']
+    url = azure://model
+    account_name = deployml01
