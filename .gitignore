@@ -5,4 +5,4 @@ __pycache__/
 *.csv
 *.pkl
 model_report.txt
-*.png
+prediction_behavior.png
